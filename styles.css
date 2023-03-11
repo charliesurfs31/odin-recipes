@@ -1,0 +1,27 @@
+img {
+    height: 250px;
+    width: auto;
+}
+* {
+    font-family: "Times New Roman";
+
+}
+p {
+    font-size: 25px;
+    font-weight: 450;
+    color: bisque;
+    background-color: transparent;
+
+}
+
+ul {
+    font-size: 20px;
+}
+
+h1 {
+    font-family: monospace;
+}
+
+h2 {
+    font-family: "Helvetica";
+}
